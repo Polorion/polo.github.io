@@ -1,5 +1,6 @@
 
 document.addEventListener('DOMContentLoaded',function(){
+  console.log(1)
 
   window.addEventListener('DOMContentLoaded', function () {
     document.querySelector('#icon-burger').addEventListener("click", function () {
