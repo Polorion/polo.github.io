@@ -241,7 +241,7 @@ header {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url(./img/fone-hero.png);
+  background-image: url(../img/fone-hero.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -249,15 +249,15 @@ header {
 }
 
 .hero__background1 {
-  background-image: url(./img/fone-hero.png);
+  background-image: url(../img/fone-hero.png);
 }
 
 .hero__background2 {
-  background-image: url(/img/hero-fone2.png);
+  background-image: url(../img/hero-fone2.png);
 }
 
 .hero__background3 {
-  background-image: url(/img/hero-fone3.png);
+  background-image: url(../img/hero-fone3.png);
 }
 
 .hero-top {
@@ -348,7 +348,7 @@ header {
   width: 23px;
   height: 23px;
   margin-right: 9px;
-  background-image: url(./img/find.svg);
+  background-image: url(../img/find.svg);
   background-repeat: no-repeat;
   background-size: contain;
   outline: none;
@@ -473,7 +473,7 @@ header {
   position: relative;
   display: block;
   padding: 12px 0 12px 14px;
-  background-image: url(./img/Realizm-1png.png);
+  background-image: url(../img/Realizm-1png.png);
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
@@ -506,163 +506,163 @@ header {
 }
 
 .real-1 {
-  background-image: url(./img/Realizm-1png.png);
+  background-image: url(../img/Realizm-1png.png);
 }
 
 .real-2 {
-  background-image: url(./img/Realizm-2png.png);
+  background-image: url(../img/Realizm-2png.png);
 }
 
 .real-3 {
-  background-image: url(./img/Realizm-3png.png);
+  background-image: url(../img/Realizm-3png.png);
 }
 
 .real-4 {
-  background-image: url(./img/Realizm-4png.png);
+  background-image: url(../img/Realizm-4png.png);
 }
 
 .real-5 {
-  background-image: url(./img/Realizm-1png.png);
+  background-image: url(../img/Realizm-1png.png);
 }
 
 .real-6 {
-  background-image: url(./img/Realizm-2png.png);
+  background-image: url(../img/Realizm-2png.png);
 }
 
 .real-7 {
-  background-image: url(./img/Realizm-3png.png);
+  background-image: url(../img/Realizm-3png.png);
 }
 
 .real-8 {
-  background-image: url(./img/Realizm-4png.png);
+  background-image: url(../img/Realizm-4png.png);
 }
 
 .imp-1 {
-  background-image: url(./img/imp-1.png);
+  background-image: url(../img/imp-1.png);
 }
 
 .imp-2 {
-  background-image: url(./img/imp-2.png);
+  background-image: url(../img/imp-2.png);
 }
 
 .imp-3 {
-  background-image: url(./img/imp-3.png);
+  background-image: url(../img/imp-3.png);
 }
 
 .imp-4 {
-  background-image: url(./img/imp-4.png);
+  background-image: url(../img/imp-4.png);
 }
 
 .imp-5 {
-  background-image: url(./img/imp-1.png);
+  background-image: url(../img/imp-1.png);
 }
 
 .imp-6 {
-  background-image: url(./img/imp-2.png);
+  background-image: url(../img/imp-2.png);
 }
 
 .imp-7 {
-  background-image: url(./img/imp-3.png);
+  background-image: url(../img/imp-3.png);
 }
 
 .imp-8 {
-  background-image: url(./img/imp-4.png);
+  background-image: url(../img/imp-4.png);
 }
 
 .post-1 {
-  background-image: url(./img/post-1.png);
+  background-image: url(../img/post-1.png);
 }
 
 .post-2 {
-  background-image: url(./img/post-2.png);
+  background-image: url(../img/post-2.png);
 }
 
 .post-3 {
-  background-image: url(./img/post-3.png);
+  background-image: url(../img/post-3.png);
 }
 
 .post-4 {
-  background-image: url(./img/post-4.png);
+  background-image: url(../img/post-4.png);
 }
 
 .post-5 {
-  background-image: url(./img/post-1.png);
+  background-image: url(../img/post-1.png);
 }
 
 .post-6 {
-  background-image: url(./img/post-2.png);
+  background-image: url(../img/post-2.png);
 }
 
 .post-7 {
-  background-image: url(./img/post-3.png);
+  background-image: url(../img/post-3.png);
 }
 
 .post-8 {
-  background-image: url(./img/post-4.png);
+  background-image: url(../img/post-4.png);
 }
 
 .ava-1 {
-  background-image: url(./img/avan-1.png);
+  background-image: url(../img/avan-1.png);
 }
 
 .ava-2 {
-  background-image: url(./img/avan-2.png);
+  background-image: url(../img/avan-2.png);
 }
 
 .ava-3 {
-  background-image: url(./img/avan-3.png);
+  background-image: url(../img/avan-3.png);
 }
 
 .ava-4 {
-  background-image: url(./img/avan-4.png);
+  background-image: url(../img/avan-4.png);
 }
 
 .ava-5 {
-  background-image: url(./img/avan-1.png);
+  background-image: url(../img/avan-1.png);
 }
 
 .ava-6 {
-  background-image: url(./img/avan-2.png);
+  background-image: url(../img/avan-2.png);
 }
 
 .ava-7 {
-  background-image: url(./img/avan-3.png);
+  background-image: url(../img/avan-3.png);
 }
 
 .ava-8 {
-  background-image: url(./img/avan-4.png);
+  background-image: url(../img/avan-4.png);
 }
 
 .fut-1 {
-  background-image: url(./img/fut-1.png);
+  background-image: url(../img/fut-1.png);
 }
 
 .fut-2 {
-  background-image: url(./img/fut-2.png);
+  background-image: url(../img/fut-2.png);
 }
 
 .fut-3 {
-  background-image: url(./img/fut-3.png);
+  background-image: url(../img/fut-3.png);
 }
 
 .fut-4 {
-  background-image: url(./img/fut-4.png);
+  background-image: url(../img/fut-4.png);
 }
 
 .fut-5 {
-  background-image: url(./img/fut-1.png);
+  background-image: url(../img/fut-1.png);
 }
 
 .fut-6 {
-  background-image: url(./img/fut-2.png);
+  background-image: url(../img/fut-2.png);
 }
 
 .fut-7 {
-  background-image: url(./img/fut-3.png);
+  background-image: url(../img/fut-3.png);
 }
 
 .fut-8 {
-  background-image: url(./img/fut-4.png);
+  background-image: url(../img/fut-4.png);
 }
 
 .hero-list__choice {
@@ -727,7 +727,7 @@ header {
 
 .gall {
   padding: 90px 0 30px 0;
-  background-image: url(./img/gall/fone.jpg);
+  background-image: url(../img/gall/fone.jpg);
   background-size: cover;
 }
 
@@ -829,7 +829,7 @@ header {
   bottom: 20px;
   right: 20px;
   background-color: rgba(0, 0, 0, 0.5);
-  background-image: url(/img/gall/swiper-gall-zoom.svg);
+  background-image: url(../img/gall/swiper-gall-zoom.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 30%;
@@ -958,7 +958,7 @@ header {
   height: 6px;
   border: none;
   top: 50%;
-  background-image: url(./img/gall/arrow-select.svg);
+  background-image: url(../img/gall/arrow-select.svg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1145,13 +1145,13 @@ header {
 .catalog-tab-content__img-persona {
   padding-bottom: 470px;
   margin-bottom: 33px;
-  background-image: url(/img/catalog/x-zag.png);
+  background-image: url(../img/catalog/x-zag.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 .domenika {
-  background-image: url(/img/catalog/persona-1.png) !important;
+  background-image: url(../img/catalog/persona-1.png) !important;
 }
 
 .catalog__name_persona {
@@ -1370,26 +1370,26 @@ header {
 
 .event-swiper-slide__img {
   padding-bottom: 300px;
-  background-image: url(/img/event/1.png);
+  background-image: url(../img/event/1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .event-swiper-slide:nth-child(2) .event-swiper-slide__img {
-  background-image: url(/img/event/2.png);
+  background-image: url(../img/event/2.png);
 }
 
 .event-swiper-slide:nth-child(3) .event-swiper-slide__img {
-  background-image: url(/img/event/3.png);
+  background-image: url(../img/event/3.png);
 }
 
 .event-swiper-slide:nth-child(4) .event-swiper-slide__img {
-  background-image: url(/img/event/4.png);
+  background-image: url(../img/event/4.png);
 }
 
 .event-swiper-slide:nth-child(5) .event-swiper-slide__img {
-  background-image: url(/img/event/5.png);
+  background-image: url(../img/event/5.png);
 }
 
 .event-swiper-slide__adress {
@@ -1535,7 +1535,7 @@ header {
 .edition {
   padding-top: 88px;
   padding-bottom: 25px;
-  background-image: url(/img/edition/bg.jpg);
+  background-image: url(../img/edition/bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1822,7 +1822,7 @@ header {
   color: #fff;
   border-top: 1px solid #fff;
   border-bottom: 1px solid #fff;
-  background-image: url(/img/edition/arrow.svg);
+  background-image: url(../img/edition/arrow.svg);
   background-repeat: no-repeat;
   background-position: center right;
 }
